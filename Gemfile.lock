@@ -120,7 +120,7 @@ GEM
     multipart-post (2.0.0)
     nokogiri (1.6.7.1)
       mini_portile2 (~> 2.0.0.rc2)
-    oj (2.14.3)
+    oj (2.18.5)
     pg (0.18.4)
     rack (1.6.4)
     rack-test (0.6.3)
