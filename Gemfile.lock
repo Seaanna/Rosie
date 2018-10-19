@@ -106,7 +106,7 @@ GEM
     js-routes (1.2.1)
       railties (>= 3.2)
       sprockets-rails (< 3)
-    json (1.8.3)
+    json (1.8.6)
     launchy (2.4.3)
       addressable (~> 2.3)
     loofah (2.0.3)
@@ -257,4 +257,4 @@ DEPENDENCIES
   web-console (~> 2.0)
 
 BUNDLED WITH
-   1.12.1
+   1.16.2
